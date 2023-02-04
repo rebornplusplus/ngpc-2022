@@ -8,5 +8,5 @@ in the
 
 ### Contribution
 
-The files on this repo are contributed by the juding panel of
+The files on this repo are contributed by the judging panel of
 the NGPC 2022 Preli.
